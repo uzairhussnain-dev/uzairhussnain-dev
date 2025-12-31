@@ -1,4 +1,4 @@
-<h5 align="left">👋 Hi, I'm Uzair Hussnain<br><br>Who Am I ?<br><br>Full Stack & Frontend Developer specializing in React, Node.js, and React Native. I build responsive, scalable web and mobile applications with a focus on performance and usability.</h5>
+<h3 align="left">👋 Hi, I'm Uzair Hussnain<br><br>Who Am I ?<br><br>Full Stack & Frontend Developer specializing in React, Node.js, and React Native. I build responsive, scalable web and mobile applications with a focus on performance and usability.</h3>
 
 ###
 
